@@ -1,7 +1,5 @@
 import re
 
-
-
 def f1(file):
     f = open(file,"r")
     stats = []
